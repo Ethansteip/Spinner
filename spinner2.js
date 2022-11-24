@@ -2,7 +2,7 @@
 * Spinner2 - Refactoring spinner1's code to print each character inside a loop.
 */
  
-// Initialize an array to hold are spinner characters.
+// Initialize an array to hold our spinner characters.
 const spinnerArray = ['\r|   ', '\r/   ', '\r-   ', '\r\\   ', '\r|   ' ];
 // Initialize delay
 let delay = 0;
