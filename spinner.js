@@ -1,15 +1,7 @@
 /*
-* Spinner - creating a spinning animation in your terminal using setTimeout!
- 
- 
-/*
-*
-* Function Name - and a brief description of what it does
-*
-* @param {string} argument name - information it holds
-* @param {string} argument name - information it holds
-*
+* Spinner1 - creating a spinning animation in your terminal using setTimeout!
 */
+ 
 
 //process.stdout.write('hello from spinner1.js... \rheyyy\n');
 
